@@ -1,9 +1,0 @@
-
-services:
-  - type: web
-    name: enhancer-bot
-    env: python
-    buildCommand: "pip install -r requirements.txt"
-    startCommand: "python bot.py"
-    plan: free
-    autoDeploy: false
