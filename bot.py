@@ -3,7 +3,7 @@ import telebot
 import os
 from telebot.types import InputFile
 
-BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE'
+BOT_TOKEN = '8075723329:AAFyt2HJg1XC7c4-3VDt_MQ9LXKeOr0JgOQ'
 bot = telebot.TeleBot(BOT_TOKEN)
 
 @bot.message_handler(commands=['start'])
