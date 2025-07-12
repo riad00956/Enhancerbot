@@ -1,0 +1,8 @@
+
+pyTelegramBotAPI
+Pillow
+torch
+basicsr
+realesrgan
+numpy
+ffmpeg-python
